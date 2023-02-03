@@ -7,6 +7,8 @@ git clone git@github.com:orenovadia/elk.git && cd elk
 ```
 
 # Running
+Make sure you have `docker` and `docker-compose` installed!
+
 ```bash
 make up
 ```
