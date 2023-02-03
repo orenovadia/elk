@@ -3,7 +3,7 @@ Sandbox - Elastic + Kibana
 
 # Cloning:
 ```bash
-git clone git@github.com:orenovadia/elk.git && cd elk
+git clone https://github.com/orenovadia/elk.git && cd elk
 ```
 
 # Running
